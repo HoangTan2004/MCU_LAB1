@@ -2,7 +2,7 @@
 
 ## Introduction
 - **Course:** Microprocessor - Microcontroller (CO3009)
-- **Lab 1:** LED Animation
+- **Content:** LED Animation
 
 ## Description for other branch
 All other branches are exercises for Lab 1, including:
